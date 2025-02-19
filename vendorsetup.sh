@@ -22,4 +22,4 @@ git clone https://github.com/Aeoniixx-Lavender/hardware_qcom-caf_sdm660_audio ha
 git clone https://github.com/Aeoniixx-Lavender/hardware_qcom-caf_sdm660_display hardware/qcom-caf/sdm660/display --depth=1;
 
 # Dolby Atmos
-git clone https://github.com/userariii/vendor_motorola-dolby -b v1.2 vendor/motorola-dolby --depth=1;
+git clone https://github.com/TogoFire/packages_apps_ViPER4AndroidFX -b v4a packages/apps/ViPER4AndroidFX --depth=1;
