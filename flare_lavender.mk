@@ -10,7 +10,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit some common Project-Flare stuff
 $(call inherit-product, vendor/flare/config/common_full_phone.mk)
-WITH_GAPPS := true
+#WITH_GAPPS := true
 FLARE_BUILD_TYPE := OFFICIAL
 FLARE_MAINTAINER := Aeoniixx
 TARGET_ENABLE_BLUR := true
